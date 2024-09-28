@@ -1,0 +1,20 @@
+.button-style-2 {
+    padding: 12px 30px;
+    font-size: 16px;
+    color: white;
+    background-color: #17a2b8;
+    border: 2px solid white;
+    border-radius: 50px;
+    cursor: pointer;
+    transition: transform 0.3s ease, background-color 0.3s ease;
+    text-decoration: none;
+}
+
+.button-style-2:hover {
+    background-color: #138496;
+    transform: scale(1.1);
+}
+
+.button-style-2:hover{
+    background: #25853a;
+}
